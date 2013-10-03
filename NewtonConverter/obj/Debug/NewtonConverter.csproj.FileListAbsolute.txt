@@ -1,0 +1,8 @@
+C:\Users\JMBALLAR\Documents\Projects\JsonBooleanConverter\NewtonConverter\bin\Debug\NewtonConverter.exe.config
+C:\Users\JMBALLAR\Documents\Projects\JsonBooleanConverter\NewtonConverter\obj\Debug\NewtonConverter.csprojResolveAssemblyReference.cache
+C:\Users\JMBALLAR\Documents\Projects\JsonBooleanConverter\NewtonConverter\bin\Debug\NewtonConverter.exe
+C:\Users\JMBALLAR\Documents\Projects\JsonBooleanConverter\NewtonConverter\bin\Debug\NewtonConverter.pdb
+C:\Users\JMBALLAR\Documents\Projects\JsonBooleanConverter\NewtonConverter\bin\Debug\Newtonsoft.Json.dll
+C:\Users\JMBALLAR\Documents\Projects\JsonBooleanConverter\NewtonConverter\bin\Debug\Newtonsoft.Json.xml
+C:\Users\JMBALLAR\Documents\Projects\JsonBooleanConverter\NewtonConverter\obj\Debug\NewtonConverter.exe
+C:\Users\JMBALLAR\Documents\Projects\JsonBooleanConverter\NewtonConverter\obj\Debug\NewtonConverter.pdb
