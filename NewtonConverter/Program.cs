@@ -15,6 +15,13 @@ namespace NewtonConverter
 
             public override string ToString()
             {
+                // this is very cool. Uncomment and step through to see...
+                //var str1 = string.Join(", ", Unit.Select(c =>
+                //                    string.Format("{0} - Single Unit: {1}",
+                //                        c.Name,
+                //                        c.isSingleUnit.ToString())));
+                //var str2 = string.Format("Data{{Unit=[{0}]}}", str1);
+                
                 return string.Format("Data{{Unit=[{0}]}}",
                     string.Join(", ", Unit.Select(c =>
                                     string.Format("{0} - Single Unit: {1}",
@@ -125,7 +132,7 @@ namespace NewtonConverter
             string json =
                 "{'Unit':[{'name':'Apartment 123',isSingleUnit:'no'},{'name':'House 456',isSingleUnit:'yes'}]}".Replace(
                     '\'', '\"');
-            var obj = serializer.Deserialize(new StringReader(json), typeof(Data));
+            //var obj = serializer.Deserialize(new StringReader(json), typeof(Data));
             Console.WriteLine(obj);
             Console.ReadKey();
         }
